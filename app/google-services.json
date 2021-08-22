@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:87799875561:android:f47454255a24f0b25a6d78",
+        "mobilesdk_app_id": "1:87799875561:android:6809b44d684a322c5a6d78",
         "android_client_info": {
           "package_name": "com.example.cloud_firestore_project"
         }

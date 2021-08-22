@@ -53,5 +53,12 @@
             android:layout_height="wrap_content"
             android:textSize="20sp" />
 
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="tut2"
+            android:text="tut2 more" />
     </LinearLayout>
 </layout>
