@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android essential\\cloud_firestore\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\android essential\\cloud_firestore\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\android essential\\cloud_firestore\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_firestore_tut2.xml",
+        "source": "E:\\android essential\\cloud_firestore\\app\\src\\main\\res\\layout\\activity_firestore_tut2.xml"
+    }
+]
