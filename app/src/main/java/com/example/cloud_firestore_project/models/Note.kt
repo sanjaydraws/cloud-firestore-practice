@@ -1,6 +1,15 @@
 package com.example.cloud_firestore_project.models
 
+import com.google.firebase.firestore.Exclude
+
 class Note {
+
+    @Exclude
+    var  documentId:String? = null
+        get() = field
+        set(value) {
+            field = value
+        }
 
      var title:String ? = null
         get() = field
